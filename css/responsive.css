@@ -1,0 +1,561 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+
+.headermobile-area  {
+	display: none;
+}
+
+.hdrinner-part1 img {   
+    position: relative;
+    top: 5px;
+}
+
+.hdrinner-part img {
+    padding-left: 42px;
+}
+
+.client-btn a {
+    font-size: 15px;
+    padding: 8px 8px;
+}
+
+.hddwon-left ul li a {
+    font-size: 14px;
+    padding: 16px 7px 17px 4px;
+}
+
+.hddwon-right form input[type="text"] {
+    font-size: 16px;
+    padding: 15px 10px;
+    width: 74%;
+}
+
+
+.cpmnybns-part h2 {
+    font-size: 20px;
+}
+
+.payment-btn {
+    top: 245px;
+    left: 53px;
+}
+
+
+.services-part img {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.service-dwon {
+    top: 74%;
+    padding: 22px 22px;
+}
+
+.services-part h4,
+.services-part h5 {
+	font-size: 19px;
+}
+
+.regn-part1 h5,  
+.regn-part2 h5,  
+.regn-part3 h5,  
+.regn-part4 h5 {
+   font-size: 19px;
+} 
+
+.footer-right form input[type="email"] {
+    width: 82%;
+}
+
+.hdrinner-part img {
+    width: 90px;
+    display: block;
+    padding-left: 44px;
+    padding-top: 8px;
+}
+
+
+
+
+
+}
+.position-dtl span{
+    padding: 12px 12px;
+}
+.position-content {
+    padding: 0 10px 15px;
+}
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+.headermobile-area { 
+    display: block;
+}
+
+.topheader-area {
+    display: none;
+}
+
+.hdrinner-area {
+    display: none;
+}
+
+.headerdwon-area {
+    display: none;
+}
+
+.navbar-brand img {
+    max-width: 100%;
+    display: block;
+}
+
+.main-menu-part ul {
+    padding-top: 20px;
+}
+
+.main-menu-part ul li {
+    float: none;
+    border-bottom: 1px solid #000000;
+}
+
+.main-menu-part ul li a {
+    padding: 21px 0px 12px 5px;
+}
+
+.company-area {
+    padding: 40px 0;
+}
+
+.cpmnybns-part {
+    padding: 30px 7px;
+    border-right: none;
+}
+
+
+.packages-area {
+    padding: 40px 0;
+    padding-bottom: 10px;
+}
+
+.packages {
+    padding-right: 15px;
+    margin-bottom: 35px;
+}
+
+.payment-area {
+    padding: 40px 0;
+}
+
+.payment-btn {
+    top: 179px;
+    left: 41px;
+}
+
+.payment-btn a {
+    font-size: 15px;
+    padding: 8px 17px;
+}
+
+.services-area {
+    padding: 40px 0;
+}
+
+.services-top p {
+    font-size: 18px;
+    padding-top: 21px;
+    padding-bottom: 21px;
+}
+
+.services-part img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    margin-bottom: 40px;
+}
+
+.service-dwon {
+    text-align: center;
+    top: 81%;
+    padding: 21px 22px;
+}
+
+.registration-top h2 {
+    padding-top: 0px;
+}
+
+.regn-part1 h5 {
+    padding-bottom: 30px;
+}
+
+.footer-right form input[type="email"] {
+    width: 84%;
+}
+
+
+ .footer-right h4 {
+    padding-top: 49px;
+    padding-bottom: 16px;
+}
+
+.footer-inner h4 {
+    padding-bottom: 19px;
+}
+
+
+.footer-inner p {
+    padding-bottom: 7px;
+}
+
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (min-width: 576px) and (max-width: 767px) {	
+.headermobile-area { 
+    display: block;
+}
+
+.topheader-area {
+    display: none;
+}
+
+.hdrinner-area {
+    display: none;
+}
+
+.headerdwon-area {
+    display: none;
+}
+
+.navbar-brand img {
+    width: 200px;
+}
+
+.main-menu-part ul {
+    padding-top: 20px;
+}
+
+.main-menu-part ul li {
+    float: none;
+    border-bottom: 1px solid #000000;
+}
+
+.main-menu-part ul li a {
+    padding: 21px 0px 12px 5px;
+}
+
+
+.client-btn {
+    margin-top: -29px;
+    padding-bottom: 10px;
+}
+
+.hdrinner-part1 img {
+    padding-top: 31px;
+}
+
+.company-area {
+    padding: 40px 0;
+}
+
+.cpmnybns-area {
+    padding: 40px 0;
+    padding-bottom: 0px;
+}
+
+.cpmnybns-part {
+    padding: 0px 7px;
+    border-right: none;
+    padding-bottom: 10px;
+}
+
+.cpmnybns-part p {
+    padding-bottom: 20px;
+}
+
+.packages-area {
+    padding: 40px 0;
+}
+
+.packages-top h2 {
+    font-size: 25px;
+    padding-bottom: 22px;
+}
+
+.package1,
+.package2,
+.package3,
+.package4,
+.package5 {
+    margin-bottom: 15px;
+}
+
+.payment-area {
+    padding: 40px 0;
+}
+
+.payment-btn {
+    top: 274px;
+    left: 55px;
+}
+
+.payment-btn a {
+    font-size: 17px;
+    padding: 10px 21px;
+}
+
+
+.services-area {
+    padding: 40px 0;
+}
+
+
+.services-top h2 {
+    font-size: 32px;
+    padding-top: 7px;
+    text-align: center;
+    padding-bottom: 16px;
+}
+
+.services-top p {
+    font-size: 15px;
+    line-height: 22px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+
+.services-part img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    margin-bottom: 20px;
+}
+
+
+.service-dwon {
+	text-align: center;
+    top: 89%;
+    padding-bottom: 22px;
+}
+
+
+.registration-area {
+    padding-bottom: 40px;
+}
+
+.registration-top h2 {
+    font-size: 26px;
+    padding-top: 0px;
+    padding-bottom: 3px;
+}
+
+.footer-left ul li img {
+    padding-right: 4px;
+}
+
+.footer-inner h4, .footer-right h4 {
+    font-size: 25px;
+    padding-top: 15px;
+    padding-bottom: 8px;
+}
+
+.footer-inner p {
+    padding-bottom: 0px;
+}
+
+.footer-right form input[type="email"] {
+    width: 82%;
+}
+
+.footer-right p {
+    font-size: 17px;
+    padding-top: 10px;
+}
+
+.lastfooter-right ul {
+    margin-top: -23px;
+}
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 576px) {
+.headermobile-area { 
+    display: block;
+}
+
+.topheader-area {
+    display: none;
+}
+
+.hdrinner-area {
+    display: none;
+}
+
+.headerdwon-area {
+    display: none;
+}
+
+.navbar-brand img {
+    width: 200px;
+}
+
+.main-menu-part ul {
+    padding-top: 20px;
+}
+
+.main-menu-part ul li {
+    float: none;
+    border-bottom: 1px solid #000000;
+}
+
+.main-menu-part ul li a {
+    padding: 21px 0px 12px 5px;
+}
+
+
+.client-btn {
+    margin-top: -29px;
+    padding-bottom: 10px;
+}
+
+.hdrinner-part1 img {
+    padding-top: 31px;
+}
+
+.company-area {
+    padding: 40px 0;
+}
+
+.cpmnybns-area {
+    padding: 40px 0;
+    padding-bottom: 30px;
+}
+
+.cpmnybns-part {
+    padding: 0px 7px;
+    border-right: none;
+    padding-bottom: 10px;
+}
+
+.packages-area {
+    padding: 40px 0;
+}
+
+.packages-top h2 {
+    font-size: 25px;
+    padding-bottom: 22px;
+}
+
+
+.package1,
+.package2,
+.package3,
+.package4,
+.package5 {
+    margin-bottom: 15px;
+}
+
+.payment-area {
+    padding: 40px 0;
+}
+
+.payment-btn {
+    top: 155px;
+    left: 39px;
+}
+
+.payment-btn a {
+    font-size: 15px;
+    padding: 7px 15px;
+}
+
+
+.services-area {
+    padding: 40px 0;
+}
+
+
+.services-top h2 {
+    font-size: 32px;
+    padding-top: 7px;
+    text-align: center;
+    padding-bottom: 16px;
+}
+
+.services-top p {
+    font-size: 16px;
+    line-height: 22px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+
+.services-part img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    margin-bottom: 15px;
+}
+
+
+.service-dwon {
+    top: 81%;
+    padding-bottom: 22px;
+}
+
+
+.registration-area {
+    padding-bottom: 40px;
+}
+
+.registration-top h2 {
+    font-size: 26px;
+    padding-top: 0px;
+    padding-bottom: 3px;
+}
+
+.footer-left ul li img {
+    padding-right: 4px;
+}
+
+.footer-inner h4, .footer-right h4 {
+    font-size: 25px;
+    padding-top: 15px;
+    padding-bottom: 8px;
+}
+
+.footer-inner p {
+    padding-bottom: 0px;
+}
+
+.footer-right form input[type="email"] {
+    width: 82%;
+}
+
+.footer-right p {
+    font-size: 17px;
+    padding-top: 10px;
+}
+
+.lastfooter-right ul {
+    margin-top: -23px;
+}
+
+}
